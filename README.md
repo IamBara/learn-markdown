@@ -15,6 +15,7 @@ Kopi | Jamu
 Manusia | Give up 
 
 <p> And now, here the list that i want to do </p>
+
 - Make new good habits </br>
 - Mastering presentation </br>
 - Mastering how to code
