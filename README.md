@@ -4,8 +4,8 @@
 ## My Social Media
 berikut adalah _social media_ yang saat ini **aktif** saya gunakan</br>
 
-[instagram](https://www.instagram.com/_abdibara/)<br/>
-[Github](https://github.com/IamBara/)
+- [instagram](https://www.instagram.com/_abdibara/)<br/>
+- [Github](https://github.com/IamBara/)
 
 ### Next to the thing that i <u>like</u> and <u>dislike</u>. 
 like | Dislike
@@ -21,6 +21,7 @@ Manusia | Give up
 - Mastering how to code
 
 <p>And here the list that i want to have</p>
+
 1. A house </br>
 2. A franchise </br>
 3. Stable Income
