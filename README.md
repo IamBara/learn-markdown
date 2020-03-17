@@ -26,4 +26,4 @@ Manusia | Give up
 2. A franchise </br>
 3. Stable Income
 
-Fyi, i really like the songs from this [Band](https://upload.wikimedia.org/wikipedia/en/3/33/Red_Hot_Chili_Peppers_logo.png)
+Fyi, i really like the songs from this Band![Band](https://upload.wikimedia.org/wikipedia/en/3/33/Red_Hot_Chili_Peppers_logo.png)
